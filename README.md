@@ -3,6 +3,8 @@
 🎨 UI/UX Designer | 📱 Android App Developer  
 Passionate about designing elegant user interfaces and building high-performance Android apps using Kotlin and Java.
 
+<img src="https://raw.githubusercontent.com/somnathashwin/somnathashwin/main/github_banner.png" alt="Hello World Banner" width="100%" />
+
 ---
 
 ## 🔧 Languages & Tools
