@@ -41,7 +41,7 @@ Passionate about designing elegant user interfaces and building high-performance
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Somnath%20Ashwin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/somnathashwin)
 [![Dribbble](https://img.shields.io/badge/Dribbble-lended_kill-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/lended_kill)
-[![Freelance](https://img.shields.io/badge/Freelance-creepsmileutility.netlify.app-000000?style=flat-square&logo=netlify&logoColor=white)](https://creepsmileutility.netlify.app/)
+[![Freelance](https://img.shields.io/badge/Freelance-creepsmileutility.netlify.app-333333?style=flat-square&logo=internet-explorer&logoColor=white)](https://creepsmileutility.netlify.app/)
 
 ---
 
