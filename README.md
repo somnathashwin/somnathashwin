@@ -23,9 +23,6 @@ Passionate about designing elegant user interfaces and building high-performance
 ### 🔹 [H2OPal](https://github.com/somnathashwin/H2OPal) (Now private to avoid cloning)
 💧 A smart hydration companion that reminds users to stay hydrated and logs their hydration history.
 
-### 🔹 [Voidcaller (Co-developed with NightBlobby)](https://github.com/NightBlobby/Voidcaller-app)
-📞 A powerful dialer app built with modern UI and performance-first architecture.
-
 ### 🔹 [NoteMe](https://github.com/somnathashwin/NoteMe) & [NoteMe Premium](https://github.com/somnathashwin/NoteMe_Premium)
 📝 A sleek note-taking app, optimized for speed, simplicity, and premium features.
 
