@@ -30,14 +30,14 @@ Passionate about designing elegant user interfaces and building high-performance
 
 ## 🎨 UI/UX Portfolio
 
-- 🔗 [Dribbble Portfolio](https://dribbble.com/somnathashwin) – Explore my design concepts and UI mockups
+- 🔗 [Dribbble Portfolio](https://dribbble.com/creepsmile) – Explore my design concepts and UI mockups
 
 ---
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Somnath%20Ashwin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/somnathashwin)
-[![Dribbble](https://img.shields.io/badge/Dribbble-lended_kill-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/somnathashwin)
+[![Dribbble](https://img.shields.io/badge/Dribbble-lended_kill-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/creepsmile)
 [![Freelance](https://img.shields.io/badge/Freelance-creepsmileutility.netlify.app-333333?style=flat-square&logo=internet-explorer&logoColor=white)](https://creepsmileutility.netlify.app/)
 
 ---
